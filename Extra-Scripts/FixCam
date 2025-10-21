@@ -1,1 +1,78 @@
+pcall(function()
+if not getgenv().CameraSubjectSpoof then
+    getgenv().CameraSubjectSpoof = true
+    local function targetScript()
+        local player = game.Players.LocalPlayer
+        local char = player.Character
+        if not char then return nil end
+        local handler = char:FindFirstChild("CharacterHandler")
+        if not handler then return nil end
+        return handler:FindFirstChild("Client")
+    end
+    local function currentCamera()
+        return workspace.CurrentCamera
+    end
+    local mt = getrawmetatable(game)
+    setreadonly(mt, false)
+    local oldNewIndex = mt.__newindex
+    mt.__newindex = newcclosure(function(self, key, value)
+        if self == currentCamera() and key == "CameraSubject" then
+            local caller = getcallingscript()
+            if caller == targetScript() then
+                return
+            end
+        end
+        return oldNewIndex(self, key, value)
+    end)
+    setreadonly(mt, true)
 
+    -- Custom task.wait() for smoother gameplay lol
+local edit = [[ nvm it sucked and made me lag
+    do
+        local OriginalTaskWait = task.wait
+        local AcuWaitBind = Instance.new("BindableEvent")
+        local fireRate = 1 / 60
+        local lastTick = tick()
+        local accumulatedTime = 0
+        local WaitRate = 60
+        task.spawn(function()
+            while true do
+                local start = tick()
+                local looped = 0
+                while tick() - start < 1 do
+                    OriginalTaskWait()
+                    looped = looped + 1
+                end
+                WaitRate = looped
+            end
+        end)
+        task.spawn(function()
+            while true do
+                local currentTick = tick()
+                local deltaTime = currentTick - lastTick
+                lastTick = currentTick
+                accumulatedTime += deltaTime
+                while accumulatedTime >= fireRate do
+                    AcuWaitBind:Fire()
+                    accumulatedTime -= fireRate
+                end
+                OriginalTaskWait()
+                if WaitRate * fireRate > 1 then
+                    AcuWaitBind:Fire()
+                    accumulatedTime -= fireRate
+                end
+            end
+        end)
+        local function MegaWait(int)
+            int = int or 0
+            local start = tick()
+            repeat
+                AcuWaitBind.Event:Wait()
+            until tick() - start > int
+            return fireRate
+        end
+        OriginalTaskWait = hookfunction(task.wait, MegaWait)
+    end
+]]
+end
+end)
