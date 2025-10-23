@@ -5,8 +5,9 @@ my Roblox exploit projects
 ### Projects: (MAIN)
 - SC : Solitary Confinement
 - FTC : Fling To Climb
-- TrashCanner Script : Tsb : The Strongest Battlegrounds 
+- TrashCanner Script : Tsb : The Strongest Battlegrounds (coming soon)
+- Mafia
 
 ### Projects: (MiscStuff)
 - Fixcam Script
-- AutoExecuteWhenDie Script
+- AutoExecuteWhenDie Script (coming soon)
