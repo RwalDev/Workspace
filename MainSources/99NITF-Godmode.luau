@@ -1,3 +1,5 @@
+-- if your here from github page instead of scriptblox... heres toggle remove --
+-- getgenv().godmode = true
 local rs = game:GetService("ReplicatedStorage")
 
 local function god()
