@@ -590,4 +590,4 @@ SaveManager:SetFolder("AimbotScript/Settings")
 SaveManager:LoadAutoloadConfig()
 
 -- // External load
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VisioneducationOfLuaCoding/Adverts/refs/heads/main/Ambrion%20Hub", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RwalDev/Workspace/refs/heads/main/MainSources/Rivals.luau", true))()
