@@ -15,10 +15,7 @@
 | <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/globe.svg" width="16" height="16" alt="globe" /> Platform | Link |
 | --- | --- |
 | <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/external-link.svg" width="16" height="16" alt="external" /> ScriptBlox | [Rwal](https://scriptblox.com/u/Rwal) |
-
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/history.svg" width="18" height="18" alt="history" /> Updates
-
-- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar" /> **12-06-2026** — readme changes & etc...
+| <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/external-link.svg" width="16" height="16" alt="external" /> Updates | [ClickMe!](https://github.com/RwalDev/Workspace/blob/main/Changelog.md) |
 
 ---
 <div align="center">
