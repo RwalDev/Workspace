@@ -2,9 +2,9 @@
 
 <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/boxes.svg" width="48" height="48" alt="boxes" />
 
-# RwalDev — Workspace
+# RwalDev-_+
 
-**cracks & my sources & etc... i really don't care & k**
+**cracks & my sources & etc...**
 
 <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar" /> Last updated: **10-09-2026**
 
