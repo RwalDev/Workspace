@@ -6,7 +6,7 @@
 
 **cracks & my sources & etc...**
 
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar" /> Last updated: **10-09-2026**
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar" /> Last updated: **12-09-2026**
 
 </div>
 
