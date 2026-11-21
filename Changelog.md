@@ -6,9 +6,9 @@
 
 **Full commit history for `RwalDev/Workspace`.**
 
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/git-branch.svg" width="16" height="16" alt="git-branch" /> Branch: **main** &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/hash.svg" width="16" height="16" alt="hash" /> **75 commits** &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Last synced: **10-09-2026**
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/git-branch.svg" width="16" height="16" alt="git-branch" /> Branch: **main** &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/hash.svg" width="16" height="16" alt="hash" /> **89 commits** &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Last synced: **21-11-2026**
 
-[![Commits](https://img.shields.io/badge/commits-75-blue)](https://github.com/RwalDev/Workspace/commits/main) [![Branch](https://img.shields.io/badge/branch-main-green)](https://github.com/RwalDev/Workspace/tree/main) [![History](https://img.shields.io/badge/history-full-orange)](https://github.com/RwalDev/Workspace/commits/main)
+[![Commits](https://img.shields.io/badge/commits-89-blue)](https://github.com/RwalDev/Workspace/commits/main) [![Branch](https://img.shields.io/badge/branch-main-green)](https://github.com/RwalDev/Workspace/tree/main) [![History](https://img.shields.io/badge/history-full-orange)](https://github.com/RwalDev/Workspace/commits/main)
 
 </div>
 
@@ -36,7 +36,9 @@
 
 ## <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/link.svg" width="18" height="18" alt="link" /> Contents
 
-- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> [September 2026 (13)](#september-2026)
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> [November 2026 (7)](#november-2026)
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> [October 2026 (1)](#october-2026)
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> [September 2026 (19)](#september-2026)
 - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> [June 2026 (3)](#june-2026)
 - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> [January 2026 (10)](#january-2026)
 - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> [December 2025 (24)](#december-2025)
@@ -45,9 +47,60 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="18" height="18" alt="calendar-days" /> September 2026 (13)
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="18" height="18" alt="calendar-days" /> November 2026 (7)
 
-### <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Sep 10, 2026 — 13 commits
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Nov 21, 2026 — 3 commits
+
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/refresh-cw.svg" width="16" height="16" alt="refresh-cw" /> **[Update last updated date and personal note](https://github.com/RwalDev/Workspace/commit/ac9525001ddcb2d72ceace8c6ea53323598a28d6)** [`ac95250`](https://github.com/RwalDev/Workspace/commit/ac9525001ddcb2d72ceace8c6ea53323598a28d6) — `21-11-2026 22:02`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/pencil.svg" width="14" height="14" alt="pencil" /> `README.md` — Modified
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/file-plus-2.svg" width="16" height="16" alt="file-plus-2" /> **[Create .nofile](https://github.com/RwalDev/Workspace/commit/2049e3c3c806e4362df8e24adc29c384edb72cde)** [`2049e3c`](https://github.com/RwalDev/Workspace/commit/2049e3c3c806e4362df8e24adc29c384edb72cde) — `21-11-2026 17:09`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/plus.svg" width="14" height="14" alt="plus" /> `opensourcesthathavebeenleaked/noq/.nofile` — Added
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/book-open.svg" width="16" height="16" alt="book-open" /> **[Update Readme.md with additional commentary](https://github.com/RwalDev/Workspace/commit/e46c16ddb6e9186e29aa51d1b91a786241030b02)** [`e46c16d`](https://github.com/RwalDev/Workspace/commit/e46c16ddb6e9186e29aa51d1b91a786241030b02) — `21-11-2026 17:06`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/pencil.svg" width="14" height="14" alt="pencil" /> `opensourcesthathavebeenleaked/Readme.md` — Modified
+
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Nov 20, 2026 — 4 commits
+
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/file-plus-2.svg" width="16" height="16" alt="file-plus-2" /> **[Add potion effect script with UI and sound](https://github.com/RwalDev/Workspace/commit/eb370feba18a8a62be236eae3211cc8691d3438c)** [`eb370fe`](https://github.com/RwalDev/Workspace/commit/eb370feba18a8a62be236eae3211cc8691d3438c) — `20-11-2026 15:48`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/chevron-right.svg" width="14" height="14" alt="chevron-right" /> *This script implements a potion effect in the game, including health management, sound effects, and UI interactions when the potion is consumed.*
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/plus.svg" width="14" height="14" alt="plus" /> `filesetc/BottleOfSpiralLight.luau` — Added
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/file-plus-2.svg" width="16" height="16" alt="file-plus-2" /> **[Add BottleOfMoonLight functionality and effects](https://github.com/RwalDev/Workspace/commit/930033cd9ca7b5eca0e7af988c59ed4a690d6a22)** [`930033c`](https://github.com/RwalDev/Workspace/commit/930033cd9ca7b5eca0e7af988c59ed4a690d6a22) — `20-11-2026 15:47`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/plus.svg" width="14" height="14" alt="plus" /> `filesetc/BottleOfMoonLight/bottleofmoonlight.luau` — Added
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/file-plus-2.svg" width="16" height="16" alt="file-plus-2" /> **[Add func.luau to BottleOfMoonLight](https://github.com/RwalDev/Workspace/commit/66c76ac31781409d03e1084a06f24a374d18b256)** [`66c76ac`](https://github.com/RwalDev/Workspace/commit/66c76ac31781409d03e1084a06f24a374d18b256) — `20-11-2026 15:47`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/arrow-left-right.svg" width="14" height="14" alt="arrow-left-right" /> `filesetc/BottleOfMoonLight/func` <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/arrow-right.svg" width="12" height="12" alt="arrow-right" /> `filesetc/BottleOfMoonLight/func.luau` — Renamed
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/file-plus-2.svg" width="16" height="16" alt="file-plus-2" /> **[Add flying functionality with sound effects](https://github.com/RwalDev/Workspace/commit/4a2b90488a89493e49a576920e7a783d5d92408d)** [`4a2b904`](https://github.com/RwalDev/Workspace/commit/4a2b90488a89493e49a576920e7a783d5d92408d) — `20-11-2026 15:46`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/plus.svg" width="14" height="14" alt="plus" /> `filesetc/BottleOfMoonLight/func` — Added
+
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="18" height="18" alt="calendar-days" /> October 2026 (1)
+
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Oct 15, 2026 — 1 commit
+
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/file-plus-2.svg" width="16" height="16" alt="file-plus-2" /> **[Add placeholder text to .assets](https://github.com/RwalDev/Workspace/commit/960ff8a21bdcbca3d2dfae557f5dbaae4e19c190)** [`960ff8a`](https://github.com/RwalDev/Workspace/commit/960ff8a21bdcbca3d2dfae557f5dbaae4e19c190) — `15-10-2026 17:31`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/plus.svg" width="14" height="14" alt="plus" /> `.assets/...` — Added
+
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="18" height="18" alt="calendar-days" /> September 2026 (19)
+
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Sep 20, 2026 — 1 commit
+
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/file-plus-2.svg" width="16" height="16" alt="file-plus-2" /> **[Add DOORS Entity Studio functionality](https://github.com/RwalDev/Workspace/commit/c6980f0f583fdab4ea2797449f8109615789557f)** [`c6980f0`](https://github.com/RwalDev/Workspace/commit/c6980f0f583fdab4ea2797449f8109615789557f) — `20-09-2026 22:15`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/chevron-right.svg" width="14" height="14" alt="chevron-right" /> *This file implements the DOORS Entity Studio, allowing users to create and manage custom entities with various configuration options such as speed, damage, and visual effects.*
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/plus.svg" width="14" height="14" alt="plus" /> `filesetc/Doors-EntityStudio.luau` — Added
+
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Sep 12, 2026 — 4 commits
+
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/book-open.svg" width="16" height="16" alt="book-open" /> **[Update last updated date in README.md](https://github.com/RwalDev/Workspace/commit/b86b6a59a5faf0f73fb4e3d652c4e474fd507c88)** [`b86b6a5`](https://github.com/RwalDev/Workspace/commit/b86b6a59a5faf0f73fb4e3d652c4e474fd507c88) — `12-09-2026 14:28`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/pencil.svg" width="14" height="14" alt="pencil" /> `README.md` — Modified
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/arrow-left-right.svg" width="16" height="16" alt="arrow-left-right" /> **[Rename NovolineLeak.luau (1).txt to NovolineLeak.luau](https://github.com/RwalDev/Workspace/commit/557badf48be2e133b6f5637fb3583671553bad7e)** [`557badf`](https://github.com/RwalDev/Workspace/commit/557badf48be2e133b6f5637fb3583671553bad7e) — `12-09-2026 14:23`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/arrow-left-right.svg" width="14" height="14" alt="arrow-left-right" /> `opensourcesthathavebeenleaked/NovolineLeak.luau (1).txt` <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/arrow-right.svg" width="12" height="12" alt="arrow-right" /> `opensourcesthathavebeenleaked/NovolineLeak.luau` — Renamed
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/file-plus-2.svg" width="16" height="16" alt="file-plus-2" /> **[...please don't put this to changelogs.](https://github.com/RwalDev/Workspace/commit/f769e9933ffb925d7c6b76cf026627afd8777fef)** [`f769e99`](https://github.com/RwalDev/Workspace/commit/f769e9933ffb925d7c6b76cf026627afd8777fef) — `12-09-2026 14:22`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/plus.svg" width="14" height="14" alt="plus" /> `opensourcesthathavebeenleaked/NovolineLeak.luau (1).txt` — Added
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/trash-2.svg" width="16" height="16" alt="trash-2" /> **[Delete opensourcesthathavebeenleaked/Novoline.luau](https://github.com/RwalDev/Workspace/commit/5e41f4d8d67acf1010ab8816a9ae370cbfd14729)** [`5e41f4d`](https://github.com/RwalDev/Workspace/commit/5e41f4d8d67acf1010ab8816a9ae370cbfd14729) — `12-09-2026 14:19`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/chevron-right.svg" width="14" height="14" alt="chevron-right" /> *OMG, I DIDN'T PUT OUT THE WHOLE Source!! Stupid discord*
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/trash-2.svg" width="14" height="14" alt="trash-2" /> `opensourcesthathavebeenleaked/Novoline.luau` — Deleted
+
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Sep 10, 2026 — 14 commits
+
+- <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/refresh-cw.svg" width="16" height="16" alt="refresh-cw" /> **[commit dropped from my pc.](https://github.com/RwalDev/Workspace/commit/9ec4ddbc357167ef9c5170aa3a225255413da29c)** [`9ec4ddb`](https://github.com/RwalDev/Workspace/commit/9ec4ddbc357167ef9c5170aa3a225255413da29c) — `10-09-2026 19:22`
+  - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/pencil.svg" width="14" height="14" alt="pencil" /> `Changelog.md` — Modified
 
 - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/file-plus-2.svg" width="16" height="16" alt="file-plus-2" /> **[anotherleak](https://github.com/RwalDev/Workspace/commit/4554c4fc128b736b5d258fc1ec91d462bd007406)** [`4554c4f`](https://github.com/RwalDev/Workspace/commit/4554c4fc128b736b5d258fc1ec91d462bd007406) — `10-09-2026 18:27`
   - <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/plus.svg" width="14" height="14" alt="plus" /> `opensourcesthathavebeenleaked/AnimalHospital/eternalhub.luau` — Added
@@ -280,7 +333,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/history.svg" width="16" height="16" alt="history" /> **75 commits** · <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/git-branch.svg" width="16" height="16" alt="git-branch" /> `main` · <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/user.svg" width="16" height="16" alt="user" /> **RwalDev**
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/history.svg" width="16" height="16" alt="history" /> **89 commits** · <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/git-branch.svg" width="16" height="16" alt="git-branch" /> `main` · <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/user.svg" width="16" height="16" alt="user" /> **RwalDev**
 
 <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/external-link.svg" width="16" height="16" alt="external-link" /> [View live history on GitHub](https://github.com/RwalDev/Workspace/commits/main/)
 
