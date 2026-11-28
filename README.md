@@ -19,7 +19,7 @@
 
 ---
 <div align="center">
-> MOTF: i like train-
+> MOTF: Hey dad im hungry, Hi Hungry im dad, why you name me this way WHY WHY WHY. *also one guy* i like trai-
 </div>
 
 <!-- Icons: Lucide (https://lucide.dev) via lucide-static@1.43.0 on jsDelivr. Pinned version to avoid breaking changes. -->
