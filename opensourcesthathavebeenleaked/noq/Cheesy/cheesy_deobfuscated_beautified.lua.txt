@@ -1,10 +1,4 @@
--- Scope-aware local renaming was applied. `param_####`, `helper_####`, `item_####`, and obvious API-derived names are generated; `local_####` is used where meaning is unclear.
--- Formatting/renaming are static only. Runtime behavior and equivalence are not verified.
-
--- Deobfuscated cheesy.lua (static)
--- Original: https://raw.githubusercontent.com/doram44/cheesy/refs/heads/main/cheesy.lua
--- Layers removed: cu base85 + shuffle, Lu, Gu PRNG, mu proxy
--- Prologue (cu/Lu/Gu/anti-tamper) stripped for readability; see cheesy_deobfuscated.lua for full.
+-- hello mr skidder frick you
 
 return (function(...)
     if not game:IsLoaded() then
